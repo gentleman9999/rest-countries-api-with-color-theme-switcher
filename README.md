@@ -33,8 +33,8 @@ Users should be able to:
 
 ### <a name="links"></a>Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://github.com/gentleman9999/rest-countries-api-with-color-theme-switcher](https://github.com/gentleman9999/rest-countries-api-with-color-theme-switcher)
+- Live Site URL: [https://rest-countries-api-with-vue3.netlify.app/](https://rest-countries-api-with-vue3.netlify.app/)
 
 ## <a name="my-process"></a>My Process
 
@@ -48,7 +48,6 @@ Users should be able to:
 - [Vue 3](https://v3.vuejs.org/) - A progressive framework for building user interfaces in JavaScript
 - [VueUse](https://vueuse.org/) - A collection of essential Vue Composition utilities 
 - [REST Countries](https://restcountries.eu/) - A RESTful API to get information about countries
-- [Heroicons](https://heroicons.dev/) / [Ionicons](https://ionic.io/ionicons) - Free SVG icons.
 
 ### <a name="what-i-learned"></a>What I Learned
 
