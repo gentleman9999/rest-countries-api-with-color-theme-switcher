@@ -40,7 +40,7 @@ export default {
 }
 </script>
 
-<!-- <style lang="scss">
+<style lang="scss">
 :root {
     /**
      * Color
@@ -739,4 +739,4 @@ main {
         transform: rotate(1turn);
     }
 }
-</style> -->
+</style>
