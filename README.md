@@ -1,6 +1,6 @@
-# Frontend Mentor - REST Countries API with Color Theme Switcher Solution (Using Vue 3 + Composition API)
+# REST Countries API with Color Theme Switcher Solution (Using Vue 3 + Composition API)
 
-This is a solution to the [REST Countries API with color theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca).
+This is a solution to the [REST Countries API with color theme switcher challenge](https://jm-test-assessment.vercel.app/).
 
 ## Table of contents
 
