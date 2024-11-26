@@ -64,4 +64,4 @@ I want to get a further understanding of the workings of reactivity in Vue 3 usi
 
 ## <a name="author"></a>Author
 
-- Website - [Aaron Romanick](https://www.linkedin.com/in/adamnowak729/)
+- Website - [Adam Nowak](https://www.linkedin.com/in/adamnowak729/)
